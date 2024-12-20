@@ -7,6 +7,14 @@
 </head>
 <body>
     <H1>Latihan git</H1>
+    <tr>
+        <td>Nama</td>
+        <td>Kelas</td>
+    </tr>
+    <tr>
+        <td>Aji Setiawan</td>
+        <td>Kelas XML A</td>
+    </tr>
     <button>Submit New Button</button>
 </body>
 </html>
